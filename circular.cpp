@@ -14,7 +14,6 @@ const int nCols = 3; // Number of cols of markers
 const int nRows = numDivision; // Number of rows of markers
 const int prod = nRows*nCols;
 int nHalfPixelsPerMarker = 20;
-//const int nPixelsPerMarker = 2*nHalfPixelsPerMarker; // #pixels per marker side
 int nPixelsPerMarker = 40;
 int nbufferPixels = 10; // #buffer pixels
 

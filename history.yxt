@@ -1,0 +1,92 @@
+ 1910  git --version
+ 1911  git config --global user.name "Kishangupta1"
+ 1912  git config --global user.email "kishangupta3469@gmail.com"
+ 1913  git config --list
+ 1914  git help config
+ 1915  ls
+ 1916  git init
+ 1917  ls
+ 1918  ls -la
+ 1919  clear
+ 1920  git status
+ 1921  touch .csv
+ 1922  ls
+ 1923  touch test.csv
+ 1924  touch .gitignore
+ 1925  ls
+ 1926  emacs .gitignore
+ 1927  rm .gitignore
+ 1928  git status
+ 1929  emacs .gitignore
+ 1930  git status
+ 1931  clear
+ 1932  git add .gitignore
+ 1933  git status
+ 1934  git add -A
+ 1935  git status
+ 1936  git reset
+ 1937  git status
+ 1938  git add -A
+ 1939  git status
+ 1940  git commit -m "Initial Coomit"
+ 1941  git status
+ 1942  git log
+ 1943  cd ../
+ 1944  cle
+ 1945  clear
+ 1946  git clone https://github.com/Kishangupta1/M-words-circular.git
+ 1947  cd M-words-circular/
+ 1948  touch .gitignore
+ 1949  emacs .gitignore
+ 1950  git status
+ 1951  git commit -A
+ 1952  cle
+ 1953  clear
+ 1954  git status
+ 1955  git add -A
+ 1956  git status
+ 1957  git commit -m "gitignore"
+ 1958  git status
+ 1959  git push
+ 1960  cle
+ 1961  clear
+ 1962  ls -la
+ 1963  git remote -v
+ 1964  git branch -a
+ 1965  git clone https://github.com/Kishangupta1/M-words-circular.git
+ 1966  cd M-words-circular/
+ 1967  ls -la
+ 1968  clear
+ 1969  git remote -v  //local repo info
+ 1970  git branch -A  //both local and remote info
+ 1971  git branch -a
+ 1972  clear
+ 1973  git diff
+ 1974  touch circular.cpp
+ 1975  emacs circular.cpp
+ 1976  git diff
+ 1977  clear
+ 1978  git status
+ 1979  git add -A
+ 1980  git status
+ 1981  git commit -m "modified"
+ 1982  git pull origin master
+ 1983  git pull origin main
+ 1984  git push origin main
+ 1985  clear
+ 1986  git branch test
+ 1987  git branch
+ 1988  git checkout test
+ 1989  git branch
+ 1990  emacs circular.cpp 
+ 1991  git status
+ 1992  git add -A
+ 1993  git status
+ 1994  git commit -m "test branch"
+ 1995  git push -u origin test
+ 1996  git branch -a
+ 1997  git checkout main
+ 1998  git push test
+ 1999  git add -A
+ 2000  git commit -m "test branch"
+ 2001  history > history.yxt
